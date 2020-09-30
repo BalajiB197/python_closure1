@@ -1,1 +1,2 @@
-# python_closure1
+# python_namedtuple
+namedtuple and tuples
